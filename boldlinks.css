@@ -76,6 +76,7 @@ body{
 .son{
     display: flex;
     flex-direction: row;
+    color: coral;
     
     
 }
